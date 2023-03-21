@@ -1,2 +1,4 @@
-# scptu-application
-An application of Streamlit to process SCPTu data
+# SCPTu Application
+
+A python application of Streamlit to process SCPTu data
+
